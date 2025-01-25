@@ -1,5 +1,4 @@
-# pytorch-transformer
-Attention is all you need implementation
+# Bilingual Transformer 
+Attention is all you need implementation (Translate Between any 2 languages you like)
 
-YouTube video with full step-by-step implementation: https://www.youtube.com/watch?v=ISNdQcPhsts
 
